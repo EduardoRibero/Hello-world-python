@@ -1,4 +1,4 @@
-100> 2 and 2 == 2
+100 > 2 and 2 == 2
 #True
 
 100 > 2 and 2 ==2 or 3 != 4
@@ -13,5 +13,5 @@
 not 3 > 1
 #False
 
-not 1 >]3
+not 1 > 3
 #True
